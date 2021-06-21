@@ -2,7 +2,6 @@
  Program Anda harus mampu mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 
 # Kriteria Submission
- Dataset yang dipakai haruslah dataset berikut : rockpaperscissors, atau gunakan link ini pada wget command: https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip
  Dataset harus dibagi menjadi train set dan validation set.
  Ukuran validation set harus 40% dari total dataset (data training memiliki 1314 sampel, dan data validasi sebanyak 874 sampel).
  Harus mengimplementasikan augmentasi gambar.
